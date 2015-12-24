@@ -182,13 +182,16 @@
   </div>
   <div class="panel-body">
     <div class="list-group">
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
+  <a href="#"><button type="button" class="list-group-item">http://www.morele.net/</button></a>
+  <a href="#"><button type="button" class="list-group-item">http://www.x-kom.pl/</button></a>
+  <a href="#"><button type="button" class="list-group-item">http://www.esc.pl/</button></a>
+  <a href="#"><button type="button" class="list-group-item">http://www.proline.pl</button></a>
+  <a href="#"><button type="button" class="list-group-item">http://www.purepc.pl/</button></a>
+  <a href="#"><button type="button" class="list-group-item">http://cpuboss.com (ENG)</button></a>
+  <a href="#"><button type="button" class="list-group-item">http://gpuboss.com (ENG)</button></a>
+  <a href="#"><button type="button" class="list-group-item">http://www.benchmark.pl/tematyka/rankingi-sprzetu.html</button></a>
+  <a href="#"><button type="button" class="list-group-item">http://www.benchit.pl/laptopy/porownanie</button></a>
+  <a href="#"><button type="button" class="list-group-item">http://www.notebookcheck.pl/Mobilne-procesory-rozpiska-osiagow.4344.0.html</button></a>
 </div>
   </div>
 </div>
@@ -200,13 +203,9 @@
   </div>
   <div class="panel-body">
     <div class="list-group">
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
+  <a href="#"><button type="button" class="list-group-item">http://www.mgsm.pl/pl</button></a>
+  <a href="#"><button type="button" class="list-group-item">http://www.phonearena.com/ (ENG)</button></a>
+  <a href="#"><button type="button" class="list-group-item">http://pricebaba.com/ (ENG)</button></a>
 </div>
   </div>
 </div>
@@ -218,13 +217,8 @@
   </div>
   <div class="panel-body">
     <div class="list-group">
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
+  <a href="#"><button type="button" class="list-group-item">http://www.systemrequirementslab.com/cyri (ENG)</button></a>
+  <a href="#"><button type="button" class="list-group-item">http://www.game-debate.com/ (ENG)</button></a>
 </div>
   </div>
 </div>
@@ -272,13 +266,16 @@
   </div>
   <div class="panel-body">
     <div class="list-group">
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
+  <a href="#"><button type="button" class="list-group-item">CCleaner</button></a>
+  <a href="#"><button type="button" class="list-group-item">Odkurzacz</button></a>
+  <a href="#"><button type="button" class="list-group-item">Advanced SystemCare</button></a>
+  <a href="#"><button type="button" class="list-group-item">WISE Registry Cleaner</button></a>
+  <a href="#"><button type="button" class="list-group-item">WISE Disc Cleaner</button></a>
+  <a href="#"><button type="button" class="list-group-item">Malwarebytes Anti-Malware</button></a>
+  <a href="#"><button type="button" class="list-group-item">AdwCleaner</button></a>
+  <a href="#"><button type="button" class="list-group-item">Hitman Pro</button></a>
+  <a href="#"><button type="button" class="list-group-item">ComboFix</button></a>
+  <a href="#"><button type="button" class="list-group-item">FRST</button></a>
 </div>
   </div>
 </div>
