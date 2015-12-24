@@ -7,7 +7,7 @@
 <!-- IE10 viewport hack | Windows 8 bug -->
 <link href="http://getbootstrap.com/assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
 <!-- Bootstrap CSS -->
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw==" crossorigin="anonymous">
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
 <title>Website for TTI</title>
 <style>
 .carousel-height-40 {
@@ -40,11 +40,11 @@
         </div> <!--/.navbar-header-->
         <div id="navbar" class="navbar-collapse collapse">
          <ul class="nav navbar-nav">
-		 <li><a href="#linki"><b>Spis linków</b></b></a></li>
+		 <li><a href="#linki"><b>Spis linków</b></a></li>
 		 <li><a href="#group"><b>O grupie TTI</b></a></li>
 		 <li><a href="#admins"><b>Admini grupy</b></a></li>
 		 <li><a href="#faq"><b>FAQ</b></a></li>
-		 <li><a href="#me"><b>O autorze</a></b></li>
+		 <li><a href="#me"><b>O autorze</b></a></li>
         </ul>
 		</div> <!--/.nav-collapse -->
       </div> <!-- ./container -->
@@ -67,6 +67,7 @@
 	  <div class="page-header" id="linki">
 	  <h3>Linki. <small>Zobacz jakie pomocne linki Ci zaoferowaliśmy.</small></h3>
 	  </div>
+	  </section>
 	  <div class="row">
   <div class="col-sm-12 col-xs-12 col-lg-4 col-md-4">
     <div class="thumbnail">
@@ -182,16 +183,13 @@
   </div>
   <div class="panel-body">
     <div class="list-group">
-  <a href="#"><button type="button" class="list-group-item">http://www.morele.net/</button></a>
-  <a href="#"><button type="button" class="list-group-item">http://www.x-kom.pl/</button></a>
-  <a href="#"><button type="button" class="list-group-item">http://www.esc.pl/</button></a>
-  <a href="#"><button type="button" class="list-group-item">http://www.proline.pl</button></a>
-  <a href="#"><button type="button" class="list-group-item">http://www.purepc.pl/</button></a>
-  <a href="#"><button type="button" class="list-group-item">http://cpuboss.com (ENG)</button></a>
-  <a href="#"><button type="button" class="list-group-item">http://gpuboss.com (ENG)</button></a>
-  <a href="#"><button type="button" class="list-group-item">http://www.benchmark.pl/tematyka/rankingi-sprzetu.html</button></a>
-  <a href="#"><button type="button" class="list-group-item">http://www.benchit.pl/laptopy/porownanie</button></a>
-  <a href="#"><button type="button" class="list-group-item">http://www.notebookcheck.pl/Mobilne-procesory-rozpiska-osiagow.4344.0.html</button></a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
 </div>
   </div>
 </div>
@@ -203,9 +201,13 @@
   </div>
   <div class="panel-body">
     <div class="list-group">
-  <a href="#"><button type="button" class="list-group-item">http://www.mgsm.pl/pl</button></a>
-  <a href="#"><button type="button" class="list-group-item">http://www.phonearena.com/ (ENG)</button></a>
-  <a href="#"><button type="button" class="list-group-item">http://pricebaba.com/ (ENG)</button></a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
 </div>
   </div>
 </div>
@@ -217,8 +219,13 @@
   </div>
   <div class="panel-body">
     <div class="list-group">
-  <a href="#"><button type="button" class="list-group-item">http://www.systemrequirementslab.com/cyri (ENG)</button></a>
-  <a href="#"><button type="button" class="list-group-item">http://www.game-debate.com/ (ENG)</button></a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
 </div>
   </div>
 </div>
@@ -230,13 +237,13 @@
   </div>
   <div class="panel-body">
     <div class="list-group">
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
 </div>
   </div>
 </div>
@@ -248,88 +255,85 @@
   </div>
   <div class="panel-body">
     <div class="list-group">
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
 </div>
   </div>
 </div>
 
  <!-- Czyszczenie Windowsa -->
-  <div class="panel panel-default" class="cleanup">
+  <div class="panel panel-default" id="cleanup">
   <div class="panel-heading">
     <h3 class="panel-title">Czyszczenie Windowsa</h3>
   </div>
   <div class="panel-body">
     <div class="list-group">
-  <a href="#"><button type="button" class="list-group-item">CCleaner</button></a>
-  <a href="#"><button type="button" class="list-group-item">Odkurzacz</button></a>
-  <a href="#"><button type="button" class="list-group-item">Advanced SystemCare</button></a>
-  <a href="#"><button type="button" class="list-group-item">WISE Registry Cleaner</button></a>
-  <a href="#"><button type="button" class="list-group-item">WISE Disc Cleaner</button></a>
-  <a href="#"><button type="button" class="list-group-item">Malwarebytes Anti-Malware</button></a>
-  <a href="#"><button type="button" class="list-group-item">AdwCleaner</button></a>
-  <a href="#"><button type="button" class="list-group-item">Hitman Pro</button></a>
-  <a href="#"><button type="button" class="list-group-item">ComboFix</button></a>
-  <a href="#"><button type="button" class="list-group-item">FRST</button></a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
 </div>
   </div>
 </div>
 
  <!-- ROOT -->
-  <div class="panel panel-default" class="rootphone">
+  <div class="panel panel-default" id="rootphone">
   <div class="panel-heading">
     <h3 class="panel-title">ROOT</h3>
   </div>
   <div class="panel-body">
     <div class="list-group">
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
 </div>
   </div>
 </div>
 
  <!-- Info o systemie -->
-  <div class="panel panel-default" class="sysinfo">
+  <div class="panel panel-default" id="sysinfo">
   <div class="panel-heading">
     <h3 class="panel-title">Informacje o systemie</h3>
   </div>
   <div class="panel-body">
     <div class="list-group">
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
 </div>
   </div>
 </div>
 
  <!-- Inne peryferie -->
-  <div class="panel panel-default" class="peryferia">
+  <div class="panel panel-default" id="peryferia">
   <div class="panel-heading">
     <h3 class="panel-title">Inne peryferia</h3>
   </div>
   <div class="panel-body">
     <div class="list-group">
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
-  <a href="#"><button type="button" class="list-group-item">Cras justo odio</button></a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <a href="#" class="list-group-item" role="button">Link Button</a>
 </div>
   </div>
 </div>
@@ -342,6 +346,19 @@
 	  <div class="page-header" id="group">
 	  <h3>TTI na facebooku. <small>Poznaj nas.</small></h3>
 	  </div>
+	  
+	   <!-- 1 cytat -->
+	  <blockquote>
+	  <p>"Polecam tą grupkę, miła społeczność, po napisaniu posta z problemem w większości przypadków odpowiedź otrzymuję po kilku minutach. :)"</p>
+	  <footer>Bartosz Buciński</footer>
+	  </blockquote>
+	  
+	  <!-- 2 cytat -->
+	  <blockquote>
+	  <p>"Sama main grupa jest kijowa bo zrobił się helpdesk, ale ludzie są spoko :)"</p>
+	  <footer>Mateusz Korzeniewski</footer>
+	  </blockquote>
+	  
 	  </section>
 	  </div>
 	  
@@ -372,7 +389,7 @@
   
   <!-- Slajd 0 -->
     <div class="item active">
-      <img src="1.jpg">
+      <img src="1.jpg" alt="Tu powinien być obrazek">
       <div class="carousel-caption">
 	  <h2>Imię</h2>
 	  <span>Krótki opis</span>
@@ -381,7 +398,7 @@
 	
 	<!-- Slajd 1 -->
     <div class="item">
-      <img src="1.jpg">
+      <img src="1.jpg" alt="Tu powinien być obrazek">
       <div class="carousel-caption">
         ...
       </div>
@@ -389,7 +406,7 @@
 	
 	<!-- Slajd 2 -->
     <div class="item">
-      <img src="1.jpg">
+      <img src="1.jpg" alt="Tu powinien być obrazek">
       <div class="carousel-caption">
         ...
       </div>
@@ -397,7 +414,7 @@
 	
 	<!-- Slajd 3 -->
     <div class="item">
-      <img src="1.jpg">
+      <img src="1.jpg" alt="Tu powinien być obrazek">
       <div class="carousel-caption">
         ...
       </div>
@@ -405,7 +422,7 @@
 	
 	<!-- Slajd 4 -->
     <div class="item">
-      <img src="1.jpg">
+      <img src="1.jpg" alt="Tu powinien być obrazek">
       <div class="carousel-caption">
         ...
       </div>
@@ -413,7 +430,7 @@
 	
 	<!-- Slajd 5 -->
     <div class="item">
-      <img src="1.jpg">
+      <img src="1.jpg" alt="Tu powinien być obrazek">
       <div class="carousel-caption">
         ...
       </div>
@@ -421,7 +438,7 @@
 	
 	<!-- Slajd 6 -->
     <div class="item">
-      <img src="1.jpg">
+      <img src="1.jpg" alt="Tu powinien być obrazek">
       <div class="carousel-caption">
         ...
       </div>
@@ -429,7 +446,7 @@
 	
 	<!-- Slajd 7 -->
     <div class="item">
-      <img src="1.jpg">
+      <img src="1.jpg" alt="Tu powinien być obrazek">
       <div class="carousel-caption">
         ...
       </div>
@@ -437,7 +454,7 @@
 	
 	<!-- Slajd 8 -->
     <div class="item">
-      <img src="1.jpg">
+      <img src="1.jpg" alt="Tu powinien być obrazek">
       <div class="carousel-caption">
         ...
       </div>
@@ -523,7 +540,7 @@
 		
 <!-- Skrypty -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha256-KXn5puMvxCw+dAYznun+drMdG1IFl3agK0p/pqT9KAo= sha512-2e8qq0ETcfWRI4HJBzQiA3UoyFk6tbNyG+qSaIBZLyW9Xf3sWZHN/lxe9fTh1U45DpPf07yj94KsUHHWe4Yk1A==" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" crossorigin="anonymous"></script>
 <script type="text/javascript">
     $(document).ready(function(){
         $(window).scroll(function(){
