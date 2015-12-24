@@ -182,14 +182,18 @@
     <h3 class="panel-title">Składanie komputera</h3>
   </div>
   <div class="panel-body">
-    <div class="list-group">
-  <a href="#" class="list-group-item" role="button">Link Button</a>
-  <a href="#" class="list-group-item" role="button">Link Button</a>
-  <a href="#" class="list-group-item" role="button">Link Button</a>
-  <a href="#" class="list-group-item" role="button">Link Button</a>
-  <a href="#" class="list-group-item" role="button">Link Button</a>
-  <a href="#" class="list-group-item" role="button">Link Button</a>
-  <a href="#" class="list-group-item" role="button">Link Button</a>
+  <div class="list-group">
+  <a href   ="http://www.morele.net/" class="list-group-item" role="button">Brzoskwinki</a>
+  <a href   ="http://www.x-kom.pl/" class="list-group-item" role="button">Komputer z Iksem</a>
+  <a href   ="http://www.esc.pl/" class="list-group-item" role="button">Zawsze sie przeciez mozna escapnac</a>
+  <a href   ="http://www.purepc.pl/" class="list-group-item" role="button">Czysty komputer</a>
+  <a href   ="http://www.proline.pl/" class="list-group-item" role="button">Nie wiem czo to jest :P</a>
+  <a href   ="http://cpuboss.com/" class="list-group-item" role="button">i7 najlepsa!!!!11!11oneone</a>
+  <a href   ="http://gpuboss.com" class="list-group-item" role="button">AMD to piekarnik</a>
+  <a href   ="http://www.benchmark.pl/tematyka/rankingi-sprzetu.html" class="list-group-item" role="button">Jakies tam rankingi</a>
+  <a href   ="http://www.benchit.pl/laptopy/porownanie" class="list-group-item" role="button">To je laptop i to je laptop, co tu dużo gadać?</a>
+  <a href   ="http://www.notebookcheck.pl/Mobilne-procesory-rozpiska-osiagow.4344.0.html" class="list-group-item" role="button">i7M najlepsze!!!!!11!!1oneone</a>
+
 </div>
   </div>
 </div>
