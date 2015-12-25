@@ -183,8 +183,8 @@
   </div>
   <div class="panel-body">
   <div class="list-group">
-  <a href   ="http://www.morele.net/" class="list-group-item" role="button">Brzoskwinki</a>
-  <a href   ="http://www.x-kom.pl/" class="list-group-item" role="button">Komputer z Iksem</a>
+  <a href   ="http://www.morele.net/" class="list-group-item" role="button">morele.net to strona oferująca wszelkie artykuły związane z elektroniką. Od komputerów, przez RTV i AGD do artykułów biurowych. Pomaga w wyborze, przez rekomendacje ekspertów.</a>
+  <a href   ="http://www.x-kom.pl/" class="list-group-item" role="button">Komputer z iksem :P</a>
   <a href   ="http://www.esc.pl/" class="list-group-item" role="button">Zawsze sie przeciez mozna escapnac</a>
   <a href   ="http://www.purepc.pl/" class="list-group-item" role="button">Czysty komputer</a>
   <a href   ="http://www.proline.pl/" class="list-group-item" role="button">Nie wiem czo to jest :P</a>
