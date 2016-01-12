@@ -186,7 +186,7 @@
   <a href   ="http://www.morele.net/" class="list-group-item" role="button">morele.net to strona oferująca wszelkie artykuły związane z elektroniką. Od komputerów, przez RTV i AGD do artykułów biurowych. Pomaga w wyborze, przez rekomendacje ekspertów.</a>
   <a href   ="http://www.x-kom.pl/" class="list-group-item" role="button">Komputer z iksem :P</a>
   <a href   ="http://www.esc.pl/" class="list-group-item" role="button">Zawsze sie przeciez mozna escapnac</a>
-  <a href   ="http://www.purepc.pl/" class="list-group-item" role="button">Czysty komputer</a>
+  <a href   ="http://www.purepc.pl/" class="list-group-item" role="button">Na purepc.pl znajdziemy wiele news'ów, artykuów i felietonów na tematy komputerowe. Zawiera także zestawy komputerowe skadane co miesiąc.</a>
   <a href   ="http://www.proline.pl/" class="list-group-item" role="button">Nie wiem czo to jest :P</a>
   <a href   ="http://cpuboss.com/" class="list-group-item" role="button">i7 najlepsa!!!!11!11oneone</a>
   <a href   ="http://gpuboss.com" class="list-group-item" role="button">AMD to piekarnik</a>
